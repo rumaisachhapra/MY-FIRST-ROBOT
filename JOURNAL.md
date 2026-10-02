@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> It will be controlled by whatever code I provide it. but it won't be the best as I'm not really that advanced yet and I'm still learning, might not be too fast or my dream project but it will be my first robot project, so anything makes me happy.
+> It will be controlled by whatever code I provide it. but it won't be the best as I'm not really that advanced yet and I'm still learning, might not be too fast or my dream project but it will be my first robot project, so anything makes me happy. I'm using Arduino and l298n as placeholders. I am making this project using the things I already have, so that I can kind of show the design
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
