@@ -1,1 +1,3 @@
 # MY-FIRST-ROBOT
+
+![My Robot](images/IMG-20261002-WA0008.jpg)
