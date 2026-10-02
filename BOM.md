@@ -23,7 +23,7 @@
 | [De soldering braid](https://epro.pk/product/desoldering-wick-cp2015-desolder-braid-solder-remover-2mm/) | For mistakes | 1 | $0.87 | $0.87 | [Epro](https://epro.pk/product/desoldering-wick-cp2015-desolder-braid-solder-remover-2mm/) |
 | [Solder iron tip cleaner](https://epro.pk/product/solder-iron-tip-cleaner-cleaning-steel-wire-sponge-balls-in-pakistan/) | For cleaning the tip of my soldering iron | 1 | $2.34 | $2.34 | [Epro](https://epro.pk/product/solder-iron-tip-cleaner-cleaning-steel-wire-sponge-balls-in-pakistan/) |
 | **Parts subtotal** | — | — | — | **$25.29** | — |
-| **Tax & shipping** | — | — | — | **$1.00** | — |
-| **Total** | — | — | — | **$26.29** | — |
+| **Tax & shipping** | — | — | — | **$1.06** | — |
+| **Total** | — | — | — | **$26.35** | — |
 
-$3.71 left of the tier's funding.
+$3.65 left of the tier's funding.
