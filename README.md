@@ -3,3 +3,20 @@
 ![My Robot](images/IMG-20261002-WA0008.jpg)
 
 so basically I did not use CAD or design this first at all, I went straight into building. this is my first ever robotics project, and hence my first ever robot.i was going to make a line following robot, but I only had one if sensor, and I didn't know how to work with one, I knew how to work with two. and then I decided I'd make a robot controlled by my phone, but my supplier had sent me a Bluetooth module that wasn't working. so then I decided Id make a robot that'd do whatever code I feed it. also I submitted this project on half life, but I don't really know if I'll get a response because tomorrow is the last date. so I decided to also post this on forge.
+
+
+| Part | What it's for | Qty | Unit | Total | Vendor |
+| --- | --- | --- | --- | --- | --- |
+| [Esp32](https://epro.pk/product/esp32-nodemcu-wifi-based-development-board/) | Receives commands from my phone | 1 | $4.14 | $4.14 | [Epro](https://epro.pk/product/esp32-nodemcu-wifi-based-development-board/) |
+| [TB6612](https://epro.pk/product/tb6612-drv8833-dual-motor-driver-module-1a-h-bridge-for-arduino-robotics/) | Basically the muscle controller | 1 | $1.98 | $1.98 | [Epro](https://epro.pk/product/tb6612-drv8833-dual-motor-driver-module-1a-h-bridge-for-arduino-robotics/) |
+| [Car chassis](https://epro.pk/product/2-wheel-car-robot-chassis-kit/) | The platform, plus wheels, DC motors etcare the body of the robot. | 1 | $3.32 | $3.32 | [Epro](https://epro.pk/product/2-wheel-car-robot-chassis-kit/) |
+| [Soldering iron](https://epro.pk/product/variable-60w-soldering-iron-tni-u-093d-in-pakistan/) | For soldering the jumper wires etc. | 1 | $4.86 | $4.86 | [Epro](https://epro.pk/product/variable-60w-soldering-iron-tni-u-093d-in-pakistan/) |
+| [Soldering iron stand](https://epro.pk/product/soldering-iron-stand-metallic/) | Component of soldering iron | 1 | $1.08 | $1.08 | [Epro](https://epro.pk/product/soldering-iron-stand-metallic/) |
+| [Solder wire](https://epro.pk/product/vectra-plus-0-8mm-solder-wire-100g-70-30-tin-lead-solder/) | The metal that melts for soldering | 1 | $4.86 | $4.86 | [Epro](https://epro.pk/product/vectra-plus-0-8mm-solder-wire-100g-70-30-tin-lead-solder/) |
+| [Soldering flux paste](https://epro.pk/product/soldering-flux-paste-solder-welding-grease-50g-in-pakistan/) | Makes solder flow | 1 | $0.58 | $0.58 | [Epro](https://epro.pk/product/soldering-flux-paste-solder-welding-grease-50g-in-pakistan/) |
+| [Soldering tip](https://epro.pk/product/tni-u-tu-900m-t-3-2d-soldering-station-bit/) | Soldering tips burn out fast, so Im buying this | 1 | $1.26 | $1.26 | [Epro](https://epro.pk/product/tni-u-tu-900m-t-3-2d-soldering-station-bit/) |
+| [De soldering braid](https://epro.pk/product/desoldering-wick-cp2015-desolder-braid-solder-remover-2mm/) | For mistakes | 1 | $0.87 | $0.87 | [Epro](https://epro.pk/product/desoldering-wick-cp2015-desolder-braid-solder-remover-2mm/) |
+| [Solder iron tip cleaner](https://epro.pk/product/solder-iron-tip-cleaner-cleaning-steel-wire-sponge-balls-in-pakistan/) | For cleaning the tip of my soldering iron | 1 | $2.34 | $2.34 | [Epro](https://epro.pk/product/solder-iron-tip-cleaner-cleaning-steel-wire-sponge-balls-in-pakistan/) |
+| **Parts subtotal** | — | — | — | **$25.29** | — |
+| **Tax & shipping** | — | — | — | **$1.06** | — |
+| **Total** | — | — | — | **$26.35** | — |
